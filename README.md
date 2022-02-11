@@ -14,6 +14,6 @@ The following steps are used:
 1. Execute `python colorful_benzene.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="Outputs/colorful_benzene.png"><img src="https://user-images.githubusercontent.com/85709371/152995935-c6f5e4a0-a51e-4a50-aecf-aa3aa621e760.png" alt="colorful benzene"></a>
+    <a href="Outputs/colorful_benzene.png"><img src="https://user-images.githubusercontent.com/85709371/153639609-1123ae27-4f30-46c7-975f-b07ca8fc514c.png" alt="colorful benzene"></a>
   </p>
 </details>
