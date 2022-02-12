@@ -49,6 +49,6 @@ The following steps are used:
 5. Execute `python spirograph.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="Outputs/spirograph.png"><img src="https://user-images.githubusercontent.com/85709371/153704662-43465fb9-21a5-4458-b695-eb0f4a31429b.png" alt="spirograph"></a>
+    <a href="Outputs/spirograph.png"><img src="https://user-images.githubusercontent.com/85709371/153705336-15b96c2c-a92a-474f-9f81-160ca32dffbc.png" alt="spirograph"></a>
   </p>
 </details>
