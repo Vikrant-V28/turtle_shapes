@@ -31,3 +31,10 @@ The following steps are used:
     <a href="Outputs/chessboard.png"><img src="https://user-images.githubusercontent.com/85709371/153703266-093a9fae-2523-49bc-847d-f29f15d45710.png" alt="chessboard"></a>
   </p>
 </details>
+
+4. Execute `python octagon_rose.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="Outputs/octagon_rose.png"><img src="https://user-images.githubusercontent.com/85709371/153703266-093a9fae-2523-49bc-847d-f29f15d45710.png" alt="octagon_rose"></a>
+  </p>
+</details>
