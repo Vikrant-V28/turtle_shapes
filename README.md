@@ -24,3 +24,10 @@ The following steps are used:
     <a href="Outputs/vibrate_circle.png"><img src="https://user-images.githubusercontent.com/85709371/153702227-b3ba3ad6-a28a-4493-87f1-8b5f966496cd.png" alt="vibrate circle"></a>
   </p>
 </details>
+
+3. Execute `python chessboard.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="Outputs/chessboard.png"><img src="https://user-images.githubusercontent.com/85709371/153703266-093a9fae-2523-49bc-847d-f29f15d45710.png" alt="chessboard"></a>
+  </p>
+</details>
