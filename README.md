@@ -21,6 +21,6 @@ The following steps are used:
 2. Execute `python vibrate_circle.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="Outputs/vibrate_circle.png"><img src="https://user-images.githubusercontent.com/85709371/153639609-1123ae27-4f30-46c7-975f-b07ca8fc514c.png" alt="vibrate circle"></a>
+    <a href="Outputs/vibrate_circle.png"><img src="https://user-images.githubusercontent.com/85709371/153702227-b3ba3ad6-a28a-4493-87f1-8b5f966496cd.png" alt="vibrate circle"></a>
   </p>
 </details>
