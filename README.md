@@ -45,3 +45,10 @@ The following steps are used:
     <a href="Outputs/rainbow_benzene.png"><img src="https://user-images.githubusercontent.com/85709371/153704662-43465fb9-21a5-4458-b695-eb0f4a31429b.png" alt="rainbow_benzene"></a>
   </p>
 </details>
+
+5. Execute `python spirograph.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="Outputs/spirograph.png"><img src="https://user-images.githubusercontent.com/85709371/153704662-43465fb9-21a5-4458-b695-eb0f4a31429b.png" alt="spirograph"></a>
+  </p>
+</details>
