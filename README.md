@@ -38,3 +38,10 @@ The following steps are used:
     <a href="Outputs/octagon_rose.png"><img src="https://user-images.githubusercontent.com/85709371/153704241-6d4cac86-ac9a-4819-afed-e53e9592d6fb.png" alt="octagon_rose"></a>
   </p>
 </details>
+
+5. Execute `python rainbow_benzene.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="Outputs/rainbow_benzene.png"><img src="https://user-images.githubusercontent.com/85709371/153704241-6d4cac86-ac9a-4819-afed-e53e9592d6fb.png" alt="rainbow_benzene"></a>
+  </p>
+</details>
